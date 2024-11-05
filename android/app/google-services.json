@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908112238632",
+    "project_id": "reminder-698be",
+    "storage_bucket": "reminder-698be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908112238632:android:4205f9706e73042d5efd1d",
+        "android_client_info": {
+          "package_name": "com.example.mos_beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908112238632-sleqif13pb4bb7mq3p1e0o2d1alanfeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mos_beauty",
+            "certificate_hash": "0c6ac140b1fa5c4514b598c64579e87a34e37bef"
+          }
+        },
+        {
+          "client_id": "908112238632-t0jbi7lhd3evselaqihqiqibe307jbgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMZLHnWZGvAk6gb_xV34XBTWVXUV1z5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908112238632-t0jbi7lhd3evselaqihqiqibe307jbgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

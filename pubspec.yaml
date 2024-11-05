@@ -1,0 +1,73 @@
+name: mos_beauty
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  path_provider:
+  cupertino_icons:
+  responsive_flutter:
+  font_awesome_flutter:
+  fluttertoast:
+  mask_text_input_formatter:
+  carousel_slider:
+  material_design_icons_flutter:
+  countdown_flutter:
+  percent_indicator:
+  # flutter_svg: ^0.18.0
+  cached_network_image:
+  horizontal_data_table:
+  file_picker:
+  image_cropper:
+  share:
+  smooth_star_rating:
+  shared_preferences:
+#  audioplayerui:
+  intl:
+  timeago:
+  firebase_core: ^0.7.0
+  path:
+  pdf_flutter: ^1.1.4
+  random_string:
+  firebase_storage: ^7.0.0
+  cloud_firestore:
+  image_picker:
+  video_player: ^2.1.1
+  permission_handler:
+  ndialog: ^4.0.1
+  flutter_downloader: ^1.6.0
+  flick_video_player: ^0.3.0
+#^0:16:0+1:
+
+dev_dependencies:
+  flutter_launcher_icons:
+  flutter_test:
+    sdk: flutter
+#dependency_overrides:
+#  audio_recorder:
+#  path_provider: 2.0.1
+
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logoBlack.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Sanomat Grab Web
+      fonts:
+        - asset: assets/fonts/sanomat-grab-web.ttf
