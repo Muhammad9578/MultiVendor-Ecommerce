@@ -1,16 +1,3 @@
-# mos_beauty
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This multi-vendor eCommerce app is designed to empower multiple shops within a single platform, offering a seamless experience for both vendors and customers. Vendors can create and manage their own storefronts, customize product listings, and set up individual shop policies. The app includes features like highlighting featured products, enabling vendors to promote top-selling or seasonal items to attract more customers.
+Customers benefit from secure in-app payment gateways that support multiple payment methods, ensuring smooth transactions with ease. In addition, the app supports referral programs, allowing users to earn rewards or discounts by referring new customers, enhancing user engagement and loyalty. The product returns and refund system is designed to be simple and hassle-free, providing customers with a reliable and straightforward process for returning products.
+For enhanced convenience, the app also offers real-time delivery tracking, so customers can monitor the status of their orders from dispatch to arrival. Vendors have access to an intuitive dashboard to manage inventory, track sales, process orders, and interact with customers efficiently. This comprehensive set of features, including user reviews and ratings, ensures a trustworthy and dynamic shopping experience, making the app an all-in-one platform for both sellers and buyers.
